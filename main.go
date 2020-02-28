@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("weeeee")
+	fmt.Println("run action")
 }
