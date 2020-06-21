@@ -32,7 +32,7 @@ func TestMultiply(t *testing.T) {
 }
 
 func TestDivided(t *testing.T) {
-	if divided(30, 6) != 5 {
+	if divided(30, 7) != 5 {
 		t.Error("1. divided result no Expected")
 	}
 	if divided(7, 4) != 1.75 {
